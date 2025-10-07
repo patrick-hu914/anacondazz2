@@ -1,4 +1,4 @@
-## Hello 🤝
+## Hello! 👋
 
 I'm a Computer Science undergrad at the University of Toronto. I'm always willing to learn new things! Besides full stack development, I'm also very interested in infrastructure, cloud technologies, and operating systems.
 

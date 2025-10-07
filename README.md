@@ -1,7 +1,7 @@
 ## Hello! 👋
 
 I'm a Computer Science undergrad at the University of Toronto.  
-Currently I am: `studying Operating Systems in CSC369`.  
+Currently I am: `studying Operating Systems in CSC369`  
 
 This page has my personal projects. Some group projects I have contributed to include:
 

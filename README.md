@@ -1,5 +1,5 @@
 ## Hello 👋
-I'm a Computer Science undergrad at the University of Toronto.  
+I'm a third year Computer Science undergrad at the University of Toronto.  
 Currently I am: `studying Operating Systems in CSC369`  
 
 This page has my personal projects. Some group projects I have contributed to include:

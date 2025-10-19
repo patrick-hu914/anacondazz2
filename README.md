@@ -1,5 +1,5 @@
-### Hello 👋
-I'm a third year Computer Science student at the University of Toronto.  
+## Hello 👋
+I am a third year Computer Science student at the University of Toronto.  
 Currently I am: `studying Operating Systems in CSC369`  
 
 This page has my personal projects. Some group projects I have contributed to include:

@@ -1,4 +1,4 @@
-## Hello 👋
+### Hello 👋
 I'm a third year Computer Science student at the University of Toronto.  
 Currently I am: `studying Operating Systems in CSC369`  
 
